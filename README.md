@@ -1,8 +1,7 @@
-# *******Dark-night******** 
+# *******Tools Tutorial******** 
  
  This Tool is for the my Followers & Fans. 
- I had made this to help them who do not know how to  
- install any tool or know about any tool.
+ I had made this to help them who do not know how to install any tool or know about any tool.
  
 <img src="https://telegra.ph/file/22caa55aa16856e6ce141.jpg">
   
@@ -17,10 +16,10 @@
 apt install git 
 ```
 ```
- git clone https://github.com/thedeveloper03/Dark-night
+ git clone https://github.com/pixelPusher03/tools-tutorial
 ```
 ```
-  cd Dark-night
+  cd tools-tutorial
 ```
 ```
 chmod +x phish.sh
